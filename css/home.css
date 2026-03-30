@@ -49,4 +49,6 @@ body{
     color: #fff;
     font-weight: 800;
     text-transform: capitalize;
+    text-align: center;
+    line-height: 1.2;
 }
